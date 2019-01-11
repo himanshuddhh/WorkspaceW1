@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Elearning Suite" verbose="1" >
+  <test name="Elearning App Test" >
+    
+    <parameter name="username" value="himanshu.dixit@infogain.com"></parameter>
+    <parameter name="password" value="Krishna@210995"></parameter>
+    
+    <classes>
+      <class name="QuestionNo3.Elearning"/>
+    </classes>
+  </test>
+</suite>

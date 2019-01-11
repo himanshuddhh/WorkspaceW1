@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18131" started-at="2018-11-28T09:23:27Z" finished-at="2018-11-28T09:23:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18131" started-at="2018-11-28T09:23:27Z" finished-at="2018-11-28T09:23:45Z">
+      <class name="QuestionNo3.Elearning">
+        <test-method status="PASS" signature="launch()[pri:0, instance:QuestionNo3.Elearning@394e1a0f]" name="launch" is-config="true" duration-ms="6338" started-at="2018-11-28T09:23:27Z" finished-at="2018-11-28T09:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:QuestionNo3.Elearning@394e1a0f]" name="loginTest" duration-ms="3004" started-at="2018-11-28T09:23:34Z" finished-at="2018-11-28T09:23:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[himanshu.dixit@infogain.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Krishna@210995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="playVideo()[pri:2, instance:QuestionNo3.Elearning@394e1a0f]" name="playVideo" duration-ms="6076" started-at="2018-11-28T09:23:37Z" finished-at="2018-11-28T09:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playVideo -->
+        <test-method status="PASS" signature="logOut()[pri:3, instance:QuestionNo3.Elearning@394e1a0f]" name="logOut" duration-ms="1099" started-at="2018-11-28T09:23:43Z" finished-at="2018-11-28T09:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:QuestionNo3.Elearning@394e1a0f]" name="tearDown" is-config="true" duration-ms="1568" started-at="2018-11-28T09:23:44Z" finished-at="2018-11-28T09:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QuestionNo3.Elearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
